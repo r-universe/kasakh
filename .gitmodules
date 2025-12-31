@@ -1,7 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/kasakh/kasakh.r-universe.dev
 	branch = HEAD
-[submodule "quadmatrix"]
-	path = quadmatrix
-	url = https://github.com/cran/quadmatrix
+[submodule "mixturemodelsr"]
+	path = mixturemodelsr
+	url = https://github.com/kasakh/mixturemodelsr
